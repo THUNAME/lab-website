@@ -1,22 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-<<<<<<< HEAD
-- id: 
-  title: "6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches"
-  authors:
-  - Zhou Jiasheng
-  - He Lin
-  - Yang Yifan
-  - Shi Xiaoyi
-  - Cheng Daguo
-  - E Jinlong
-  - Liu Ying
-  - Zhang Dong
-  publisher: In Proceedings of the 44th IEEE Conference on Computer Communications (INFOCOM)
-  date: '2025-6-19'
-  link: 
-  orcid: 
-=======
 - id: doi:10.1093/nar/gkad1082
   title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
     \ genes\_and diseases across species"
@@ -149,7 +132,6 @@
   date: '2022-12-28'
   link: https://doi.org/gsd85n
   orcid: 0000-0002-4655-3773
->>>>>>> 4a73d1409e121b83a1f5a6301afee2853c9f855c
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.02.18.461833
@@ -206,14 +188,9 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-<<<<<<< HEAD
-  description: The vast address space of IPv6 makes it impractical to apply exhaustive scanning to survey the entire network. Existing studies that aim to quickly discover active IPv6 addresses by optimizing the scanning space face issues of poor scalability and high time complexity, which hinder a comprehensive understanding of the IPv6 network and impede the timely provision of security snapshots and the development of IPv6. Fortunately, the emergence of programmable switches provides an opportunity to address the above issues. To this end, we propose 6Map, a fast active IPv6 address discovery system based on programmable switches. We design a lightweight target generation algorithm running on the control plane of the programmable switch and implement fast scanning address generation on the switch ASIC. The experimental results show that IPv6 active address discovery efficiency is up to 40.1× compared to the state-of-the-art method at the 100M probe budget.
-  image: 
-=======
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
->>>>>>> 4a73d1409e121b83a1f5a6301afee2853c9f855c
   buttons:
   - type: manubot
     link: https://greenelab.github.io/meta-review/
