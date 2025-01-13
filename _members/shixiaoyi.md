@@ -1,5 +1,5 @@
 ---
-name: Shi Xiaoyi
+name: Xiaoyi Shi
 image: images/shi-xiaoyi.jpg
 role: Ph.D student
 affiliation: Tsinghua University
