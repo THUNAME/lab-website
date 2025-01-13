@@ -1,6 +1,6 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Shi Xiaoyi
+image: images/shi-xiaoyi.jpg
 role: principal-investigator
 affiliation: University of Colorado
 aliases:

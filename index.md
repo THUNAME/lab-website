@@ -3,7 +3,8 @@
 
 # THUNAME's Website
 
-Network Architecture and MEasurement Group, Tsinghua University.
+清华大学网络体系结构与测量研究组（THUNAME）
+Network Architecture and MEasurement Group(NAME), Tsinghua University.
 
 {% include section.html %}
 
@@ -11,7 +12,7 @@ Network Architecture and MEasurement Group, Tsinghua University.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+研究成果
 
 {%
   include button.html
@@ -34,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+开展项目
 
 {%
   include button.html
@@ -59,8 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+团队介绍
 {%
   include button.html
   link="team"
