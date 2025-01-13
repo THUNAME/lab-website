@@ -1,7 +1,7 @@
 ---
 name: Shi Xiaoyi
 image: images/shi-xiaoyi.jpg
-role: principal-investigator
+role: Ph.D student
 affiliation: Tsinghua University
 aliases:
   - X. Shi
