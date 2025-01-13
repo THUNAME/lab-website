@@ -3,7 +3,7 @@
 
 # THUNAME's Website
 
-An engaging 1-3 sentence description of your lab.
+Network Architecture and MEasurement Group, Tsinghua University.
 
 {% include section.html %}
 
