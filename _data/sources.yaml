@@ -1,5 +1,5 @@
 
-- id: 
+- id: conference:INFOCOM25
   type: paper
   title: "6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches"
   authors:
@@ -36,7 +36,7 @@
   repo:
 
 
-- id: 
+- id: conference:ICNP24
   title: "Luori: Active Probing and Evaluation of Internet-wide IPv6 Fully Responsive Prefixes"
   authors:
   - Cheng Daguo
@@ -103,7 +103,7 @@
 
 
 
-- id: 
+- id: conference:IPCCC24
   title: "Overlooked Backdoors: Investigating 6to4 Tunnel Nodes and Their Exploitation in the Wild"
   authors:
   - Guo Jiaxing
