@@ -8,7 +8,7 @@ aliases:
   - 
 links:
   email: wza23@mails.tsinghua.edu.cn
-  home-page: lgwza.top
+  home-page: https://lgwza.top
   github: lgwza
 ---
 
