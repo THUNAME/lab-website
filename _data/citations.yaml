@@ -1,207 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1145/3651890.3672230
   title: 'P4runpro: Enabling Runtime Programmability for RMT Programmable Switches'
   authors:
@@ -251,6 +49,311 @@
   - P4
   - Runtime Programmability
   repo: https://github.com/P4runpro/P4runpro
+- id: doi:10.1109/infocomwkshps57453.2023.10225882
+  title: 'L7LB: High Performance Layer-7 Load Balancing on Heterogeneous Programmable
+    Platforms'
+  authors:
+  - Xiaoyi Shi
+  - Yifan Li
+  - Chengjun Jia
+  - Xiaohe Hu
+  - Jun Li
+  publisher: IEEE INFOCOM 2023 - IEEE Conference on Computer Communications Workshops
+    (INFOCOM WKSHPS)
+  date: '2023-05-20'
+  link: https://doi.org/gszh6k
+  orcid: 0009-0007-1799-0820
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNET.2024.3491314
+  title: '<i>PMap</i>: Reinforcement Learning-Based Internet-Wide Port Scanning'
+  authors:
+  - Guanglei Song
+  - Lin He
+  - Tao Chen
+  - Jinlei Lin
+  - Linna Fan
+  - Kun Wen
+  - Zhiliang Wang
+  - Jiahai Yang
+  publisher: IEEE/ACM Transactions on Networking
+  date: '2024-12-01'
+  link: https://doi.org/g8zp27
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNET.2024.3406508
+  title: '<i>AddrMiner</i>: A Fast, Efficient, and Comprehensive Global Active IPv6
+    Address Detection System'
+  authors:
+  - Guanglei Song
+  - Lin He
+  - Feiyu Zhu
+  - Jinlei Lin
+  - Wenjian Zhang
+  - Linna Fan
+  - Chenglong Li
+  - Zhiliang Wang
+  - Jiahai Yang
+  publisher: IEEE/ACM Transactions on Networking
+  date: '2024-10-01'
+  link: https://doi.org/g8zp28
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/tmc.2024.3410645
+  title: 'WiseCam: A Systematic Approach to Intelligent Pan-Tilt Cameras for Moving
+    Object Tracking'
+  authors:
+  - Jinlong E
+  - Fangshuo Han
+  - Lin He
+  - Wei Xu
+  - Zhenhua Li
+  - Yunpeng Chai
+  - Yunhao Liu
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2024-12-01'
+  link: https://doi.org/g8zp29
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMC.2022.3183118
+  title: '<i>AutoIoT</i>: Automatically Updated IoT Device Identification With Semi-Supervised
+    Learning'
+  authors:
+  - Linna Fan
+  - Lin He
+  - Yichao Wu
+  - Shize Zhang
+  - Zhiliang Wang
+  - Jia Li
+  - Jiahai Yang
+  - Chaocan Xiang
+  - Xiaoqian Ma
+  publisher: IEEE Transactions on Mobile Computing
+  date: '2023-10-01'
+  link: https://doi.org/gqvjjt
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MNET.123.2200111
+  title: '<i>SAV6</i>: A Novel Inter-AS Source Address Validation Protocol for IPv6
+    Internet'
+  authors:
+  - Lin He
+  - Gang Ren
+  - Ying Liu
+  - Guanglei Song
+  - E Jinlong
+  - Jiahai Yang
+  - Mingwei Xu
+  publisher: IEEE Network
+  date: '2023-09-01'
+  link: https://doi.org/g8zp3b
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TPDS.2021.3136575
+  title: 'CoFilter: High-Performance Switch-Accelerated Stateful Packet Filter for
+    Bare-Metal Servers'
+  authors:
+  - Jiamin Cao
+  - Ying Liu
+  - Yu Zhou
+  - Lin He
+  - Chen Sun
+  - Yangyang Wang
+  - Mingwei Xu
+  publisher: IEEE Transactions on Parallel and Distributed Systems
+  date: '2022-09-01'
+  link: https://doi.org/g8zp3c
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNET.2022.3145040
+  title: 'DET: Enabling Efficient Probing of IPv6 Active Addresses'
+  authors:
+  - Guanglei Song
+  - Jiahai Yang
+  - Zhiliang Wang
+  - Lin He
+  - Jinlei Lin
+  - Long Pan
+  - Chenxin Duan
+  - Xiaowen Quan
+  publisher: IEEE/ACM Transactions on Networking
+  date: '2022-08-01'
+  link: https://doi.org/gsjrkx
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNET.2022.3142126
+  title: 'TurboNet: Faithfully Emulating Networks With Programmable Switches'
+  authors:
+  - Jiamin Cao
+  - Ying Liu
+  - Yu Zhou
+  - Lin He
+  - Mingwei Xu
+  publisher: IEEE/ACM Transactions on Networking
+  date: '2022-06-01'
+  link: https://doi.org/g8zp3d
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNET.2020.3047667
+  title: 'PAVI: Bootstrapping Accountability and Privacy to IPv6 Internet'
+  authors:
+  - Lin He
+  - Gang Ren
+  - Ying Liu
+  - Jiahai Yang
+  publisher: IEEE/ACM Transactions on Networking
+  date: '2021-04-01'
+  link: https://doi.org/gmx6jn
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IWQOS52092.2021.9521336
+  title: 'pSAV: A Practical and Decentralized Inter-AS Source Address Validation Service
+    Framework'
+  authors:
+  - Jiamin Cao
+  - Ying Liu
+  - Mingxing Liu
+  - Lin He
+  - Yihao Jia
+  - Fei Yang
+  publisher: 2021 IEEE/ACM 29th International Symposium on Quality of Service (IWQOS)
+  date: '2021-06-25'
+  link: https://doi.org/grbjgk
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.comnet.2021.108323
+  title: Towards securing Duplicate Address Detection using P4
+  authors:
+  - Lin He
+  - Peng Kuang
+  - Ying Liu
+  - Gang Ren
+  - Jiahai Yang
+  publisher: Computer Networks
+  date: '2021-10-01'
+  link: https://doi.org/gmgzks
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICC40277.2020.9149310
+  title: 'P4DAD: Securing Duplicate Address Detection Using P4'
+  authors:
+  - Peng Kuang
+  - Ying Liu
+  - Lin He
+  publisher: ICC 2020 - 2020 IEEE International Conference on Communications (ICC)
+  date: '2020-06-01'
+  link: https://doi.org/grbnsh
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IWQoS49365.2020.9212980
+  title: Towards the Construction of Global IPv6 Hitlist and Efficient Probing of
+    IPv6 Address Space
+  authors:
+  - Guanglei Song
+  - Lin He
+  - Zhiliang Wang
+  - Jiahai Yang
+  - Tao Jin
+  - Jieling Liu
+  - Guo Li
+  publisher: 2020 IEEE/ACM 28th International Symposium on Quality of Service (IWQoS)
+  date: '2020-06-01'
+  link: https://doi.org/g8zp3f
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/INFOCOM.2019.8737453
+  title: Bootstrapping Accountability and Privacy to IPv6 Internet without Starting
+    from Scratch
+  authors:
+  - Lin He
+  - Gang Ren
+  - Ying Liu
+  publisher: IEEE INFOCOM 2019 - IEEE Conference on Computer Communications
+  date: '2019-04-01'
+  link: https://doi.org/ghkmg6
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11432-017-9298-3
+  title: 'GAGMS: a requirement-driven general address generation and management system'
+  authors:
+  - Ying Liu
+  - Lin He
+  - Gang Ren
+  publisher: Science China Information Sciences
+  date: '2018-06-08'
+  link: https://doi.org/g8zp3g
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2018.2879489
+  title: 'Network-Layer Accountability Protocols: A Survey'
+  authors:
+  - Lin He
+  - Ying Liu
+  - Gang Ren
+  publisher: IEEE Access
+  date: '2018-01-01'
+  link: https://doi.org/g8zp3h
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.26599/TST.2018.9010025
+  title: 'RISP: An RPKI-based inter-AS source protection mechanism'
+  authors:
+  - Yihao Jia
+  - Ying Liu
+  - Gang Ren
+  - Lin He
+  publisher: Tsinghua Science and Technology
+  date: '2018-02-01'
+  link: https://doi.org/gc5tdq
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/PCCC.2017.8280451
+  title: Revisiting inter-AS IP spoofing let the protection drive source address validation
+  authors:
+  - Yihao Jia
+  - Ying Liu
+  - Gang Ren
+  - Lin He
+  publisher: 2017 IEEE 36th International Performance Computing and Communications
+    Conference (IPCCC)
+  date: '2017-12-01'
+  link: https://doi.org/g8zp3j
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11432-015-5461-0
+  title: Building an IPv6 address generation and traceback system with NIDTGA in Address
+    Driven Network
+  authors:
+  - Ying Liu
+  - Gang Ren
+  - JianPing Wu
+  - ShengLin Zhang
+  - Lin He
+  - YiHao Jia
+  publisher: Science China Information Sciences
+  date: '2015-11-13'
+  link: https://doi.org/g8zp3k
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
 - id: conference:INFOCOM25
   title: '6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches'
   authors:
