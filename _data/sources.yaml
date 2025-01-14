@@ -51,11 +51,11 @@
   - Zhang Shenglin
   - Tan Fuchao
   - Liu Wenmao
-  booktitle: "Proceedings of the 32nd IEEE International Conference on Network Protocols (ICNP)"
+  publisher: "Proceedings of the 32nd IEEE International Conference on Network Protocols (ICNP)"
   year: "2024"
   address: Charleroi, Belgium
   date: "2024-10-28"
-  abstract: "With the large-scale deployment and application of IPv6, IPv6 network measurements will become increasingly important. However, a special type of IPv6 prefix called Fully Responsive Prefix (FRP) is having a significant impact on IPv6 measurement campaigns, which is defined as all addresses under a prefix responding to scans. Obviously, there cannot be a real responder behind each of these addresses. To reveal the current status and impact of Internet-wide IPv6 FRPs, we propose for the first time an active probing method for Internet-wide IPv6 FRPs, Luori, which transforms the active probing process under IPv6 huge prefix space (potential range of prefix presence) into a dynamic search process in a tree based on reinforcement learning, achieving efficient probing of arbitrary routing prefixes. The evaluation results show that Luori found 31.7K largest FRPs in a single Internet-wide probing with 11M budget, covering 1.5×10^30 address space, which is 10^6× that of existing methods. More importantly, after six months of Internet-wide probing, we have found 516K largest FRPs, which covers 1.3 × 10^33 address space and 795 ASes, making it the largest publicly known FRP list. Based on this list, we screen out 20% of the addresses covered by FRPs from a well-known IPv6 active address dataset. Furthermore, we further analyze and find that the distribution of these FRPs is extensive and their implementation methods are diverse, which can provide beneficial references for the practical application of FRPs. We also make this list publicly available and maintain it long-term for use and study by relevant researchers."
+  description: "With the large-scale deployment and application of IPv6, IPv6 network measurements will become increasingly important. However, a special type of IPv6 prefix called Fully Responsive Prefix (FRP) is having a significant impact on IPv6 measurement campaigns, which is defined as all addresses under a prefix responding to scans. Obviously, there cannot be a real responder behind each of these addresses. To reveal the current status and impact of Internet-wide IPv6 FRPs, we propose for the first time an active probing method for Internet-wide IPv6 FRPs, Luori, which transforms the active probing process under IPv6 huge prefix space (potential range of prefix presence) into a dynamic search process in a tree based on reinforcement learning, achieving efficient probing of arbitrary routing prefixes. The evaluation results show that Luori found 31.7K largest FRPs in a single Internet-wide probing with 11M budget, covering 1.5×1030 address space, which is 106× that of existing methods. More importantly, after six months of Internet-wide probing, we have found 516K largest FRPs, which covers 1.3 × 1033 address space and 795 ASes, making it the largest publicly known FRP list. Based on this list, we screen out 20% of the addresses covered by FRPs from a well-known IPv6 active address dataset. Furthermore, we further analyze and find that the distribution of these FRPs is extensive and their implementation methods are diverse, which can provide beneficial references for the practical application of FRPs. We also make this list publicly available and maintain it long-term for use and study by relevant researchers."
   tags:
   - IPv6
   - Network Measurement
@@ -109,15 +109,16 @@
   - Guo Jiaxing
   - He Lin
   - Liu Ying
-  booktitle: "Proceedings of the 43rd IEEE International Performance Computing and Communications Conference (IPCCC)"
+  publisher: "Proceedings of the 43rd IEEE International Performance Computing and Communications Conference (IPCCC)"
   year: "2024"
   address: Orlando, Florida, USA
   date: "2024-11-22"
-  abstract: "As native IPv6 adoption increases, the use of 6to4 tunnels has declined, yet they remain a significant security concern in today's Internet. This study investigates the real-world deployment of 6to4 tunnels, revealing their current scale, characteristics, and security implications. We identify open 6to4 relays in 216 countries and 13,114 autonomous systems, noting stable short-term counts but a long-term decline. We analyze the security of these nodes and find over 578k nodes vulnerable to address spoofing and packet injection. Additionally, we present several under-emphasized scenarios where open 6to4 nodes are abused, including leveraging services on 6to4 nodes as traffic amplifiers, circumventing restrictions using multiple 6to4 addresses, and connecting 6to4 nodes to render attacks untraceable."
+  description: "As native IPv6 adoption increases, the use of 6to4 tunnels has declined, yet they remain a significant security concern in today's Internet. This study investigates the real-world deployment of 6to4 tunnels, revealing their current scale, characteristics, and security implications. We identify open 6to4 relays in 216 countries and 13,114 autonomous systems, noting stable short-term counts but a long-term decline. We analyze the security of these nodes and find over 578k nodes vulnerable to address spoofing and packet injection. Additionally, we present several under-emphasized scenarios where open 6to4 nodes are abused, including leveraging services on 6to4 nodes as traffic amplifiers, circumventing restrictions using multiple 6to4 addresses, and connecting 6to4 nodes to render attacks untraceable."
   tags:
   - IPv6
   - 6to4 Tunnels
   - Security
   - Address Spoofing
-  - Packet Injection
+
+  
 

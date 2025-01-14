@@ -1,11 +1,11 @@
 ---
 ---
 
-# THUNAME's Website
+# THUNAME's Recent News
 
-清华大学网络体系结构与测量研究组(THUNAME)网站。
-
-Network Architecture and MEasurement Group(NAME), Tsinghua University.
+[12/2024] 6Map accepted to INFOCOM’25.
+[07/2024] Luori and accepted to ICNP’24.
+[05/2024] P4runpro accepted to SIGCOMM’24
 
 {% include section.html %}
 
