@@ -3,6 +3,10 @@ name: Lin He
 image: images/photo.jpg
 role: pi
 group: alum
+aliases:
+  - Lin He
+  - L. He
+  
 links:
   home-page: https://helinhl.github.io
 ---

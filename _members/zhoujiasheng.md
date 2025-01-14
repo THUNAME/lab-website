@@ -5,7 +5,7 @@ role: Master's student
 affiliation: Tsinghua University
 aliases:
   - J. Zhou
-  - 
+  - Jiasheng Zhou
 links:
   email: 
   home-page: 

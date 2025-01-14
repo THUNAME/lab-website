@@ -5,7 +5,7 @@ role: Master's student
 affiliation: Tsinghua University
 aliases:
   - Z. Jia
-  - 
+  - Zedong Jia
 links:
   email: 
   home-page: https://zedongjia.github.io

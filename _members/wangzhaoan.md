@@ -5,7 +5,7 @@ role: Master's student
 affiliation: Tsinghua University
 aliases:
   - Z. Wang
-  - 
+  - Zhaoan Wang
 links:
   email: wza23@mails.tsinghua.edu.cn
   home-page: https://lgwza.top
