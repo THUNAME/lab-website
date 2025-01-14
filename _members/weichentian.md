@@ -5,7 +5,7 @@ role: Ph.D student
 affiliation: Tsinghua University
 aliases:
   - C. Wei
-  - 
+  - Chentian Wei
 links:
   email: wct24@mails.tsinghua.edu.cn
   home-page: https://thuname.github.io/lab-website/members/weichentian.html
