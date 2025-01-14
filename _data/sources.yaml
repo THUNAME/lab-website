@@ -1,5 +1,5 @@
 
-- id: zhou20256map
+- id: 
   type: paper
   title: "6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches"
   authors:
@@ -36,7 +36,7 @@
   repo:
 
 
-- id: cheng2024luori
+- id: 
   title: "Luori: Active Probing and Evaluation of Internet-wide IPv6 Fully Responsive Prefixes"
   authors:
   - Cheng Daguo
@@ -66,7 +66,7 @@
 
 
 
-- id: yang2024p4runpro
+- id: doi:10.1145/3651890.3672230
   title: "P4runpro: Enabling Runtime Programmability for RMT Programmable Switches"
   authors:
   - Yang Yifan
@@ -103,7 +103,7 @@
 
 
 
-- id: guo2024overlooked
+- id: 
   title: "Overlooked Backdoors: Investigating 6to4 Tunnel Nodes and Their Exploitation in the Wild"
   authors:
   - Guo Jiaxing
