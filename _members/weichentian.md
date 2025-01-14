@@ -1,6 +1,6 @@
 ---
 name: Chentian Wei
-image: 
+image:  images/weichentian.jpg
 role: Ph.D student
 affiliation: Tsinghua University
 aliases:
