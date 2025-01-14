@@ -9,7 +9,7 @@ aliases:
 links:
   email: wza23@mails.tsinghua.edu.cn
   home-page: lgwza.top
-  orcid: 
-  github: https://github.com/lgwza
+  github: lgwza
 ---
 
+I am currently a 2nd-year master's student at the Institute for Network Sciences and Cyberspace, Tsinghua University.
