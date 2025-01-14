@@ -4,7 +4,9 @@
 # THUNAME's Recent News
 
 [12/2024] 6Map accepted to INFOCOM’25.
+
 [07/2024] Luori and accepted to ICNP’24.
+
 [05/2024] P4runpro accepted to SIGCOMM’24
 
 {% include section.html %}

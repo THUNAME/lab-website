@@ -1,7 +1,7 @@
 ---
 name: Lin He
 image: images/photo.jpg
-role: Leader
+role: pi
 group: alum
 links:
   home-page: https://helinhl.github.io
