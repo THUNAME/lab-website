@@ -1,5 +1,5 @@
 ---
-name: ying Liu
+name: Ying Liu
 image: 
 role: pi
 group: alum
