@@ -7,9 +7,9 @@ aliases:
   - Z. Wang
   - 
 links:
-  email: 
-  home-page: 
+  email: wza23@mails.tsinghua.edu.cn
+  home-page: lgwza.top
   orcid: 
-  github: 
+  github: https://github.com/lgwza
 ---
 
