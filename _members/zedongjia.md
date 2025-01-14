@@ -10,6 +10,6 @@ links:
   email: 
   home-page: https://zedongjia.github.io
   orcid: https://orcid.org/0009-0002-7498-9395
-  github: https://github.com/ZedongJia
+  github: ZedongJia
 ---
 
