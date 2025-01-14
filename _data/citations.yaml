@@ -202,6 +202,55 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1145/3651890.3672230
+  title: 'P4runpro: Enabling Runtime Programmability for RMT Programmable Switches'
+  authors:
+  - Yang Yifan
+  - He Lin
+  - Zhou Jiasheng
+  - Shi Xiaoyi
+  - Cao Jiamin
+  - Liu Ying
+  publisher: In Proceedings of the 2024 Annual Conference of the ACM Special Interest
+    Group on Data Communication (SIGCOMM)
+  date: '2024-08-04'
+  link: null
+  orcid: null
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: "Programmable switches have revolutionized network operations by enabling\
+    \ the flexible customization of packet processing logic using language like P4.\
+    \ However, changing the programs running on the switch requires disturbing traffic\
+    \ and suspending other unrelated programs. In this paper, we present P4runpro,\
+    \ enabling runtime data plane updates with dynamic resource allocation. The P4runpro\
+    \ data plane abstracts hardware resources and defines dynamically reconfigurable\
+    \ atomic operations that form packet processing logic. P4runpro provides runtime\
+    \ programming interfaces called P4runpro primitives for the operator to write\
+    \ high-level programs. We have designed the P4runpro compiler to automatically\
+    \ and consistently link the P4runpro programs to the running data plane. We implement\
+    \ our prototype on a Tofino switch. We implement 15 example runtime programs using\
+    \ P4runpro to demonstrate its generality and expressiveness. Our evaluation results\
+    \ show that compared to the state-of-the-art, P4runpro can respond within hundreds\
+    \ of milliseconds, achieve an average of 60% to 80% dynamic resource utilization,\
+    \ concurrently run \u22480.6K to \u22482.8K programs, and introduce lower overhead.\
+    \ Our case studies illustrate the benefit of runtime programming and prove the\
+    \ same functionality between P4runpro and conventional P4 programs."
+  image: null
+  buttons:
+  - type: manubot
+    link: null
+  - type: source
+    text: Manuscript Source
+    link: https://dl.acm.org/doi/pdf/10.1145/3651890.3672230
+  - type: website
+    link: https://dl.acm.org/doi/10.1145/3651890.3672230
+  tags:
+  - SDN
+  - Programmable Switches
+  - P4
+  - Runtime Programmability
+  repo: https://github.com/P4runpro/P4runpro
 - id: conference:INFOCOM25
   title: '6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches'
   authors:
@@ -300,55 +349,6 @@
   - Reinforcement Learning
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1145/3651890.3672230
-  title: 'P4runpro: Enabling Runtime Programmability for RMT Programmable Switches'
-  authors:
-  - Yang Yifan
-  - He Lin
-  - Zhou Jiasheng
-  - Shi Xiaoyi
-  - Cao Jiamin
-  - Liu Ying
-  publisher: In Proceedings of the 2024 Annual Conference of the ACM Special Interest
-    Group on Data Communication (SIGCOMM)
-  date: '2024-08-04'
-  link: null
-  orcid: null
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: "Programmable switches have revolutionized network operations by enabling\
-    \ the flexible customization of packet processing logic using language like P4.\
-    \ However, changing the programs running on the switch requires disturbing traffic\
-    \ and suspending other unrelated programs. In this paper, we present P4runpro,\
-    \ enabling runtime data plane updates with dynamic resource allocation. The P4runpro\
-    \ data plane abstracts hardware resources and defines dynamically reconfigurable\
-    \ atomic operations that form packet processing logic. P4runpro provides runtime\
-    \ programming interfaces called P4runpro primitives for the operator to write\
-    \ high-level programs. We have designed the P4runpro compiler to automatically\
-    \ and consistently link the P4runpro programs to the running data plane. We implement\
-    \ our prototype on a Tofino switch. We implement 15 example runtime programs using\
-    \ P4runpro to demonstrate its generality and expressiveness. Our evaluation results\
-    \ show that compared to the state-of-the-art, P4runpro can respond within hundreds\
-    \ of milliseconds, achieve an average of 60% to 80% dynamic resource utilization,\
-    \ concurrently run \u22480.6K to \u22482.8K programs, and introduce lower overhead.\
-    \ Our case studies illustrate the benefit of runtime programming and prove the\
-    \ same functionality between P4runpro and conventional P4 programs."
-  image: null
-  buttons:
-  - type: manubot
-    link: null
-  - type: source
-    text: Manuscript Source
-    link: https://dl.acm.org/doi/pdf/10.1145/3651890.3672230
-  - type: website
-    link: https://dl.acm.org/doi/10.1145/3651890.3672230
-  tags:
-  - SDN
-  - Programmable Switches
-  - P4
-  - Runtime Programmability
-  repo: https://github.com/P4runpro/P4runpro
 - id: conference:IPCCC24
   title: 'Overlooked Backdoors: Investigating 6to4 Tunnel Nodes and Their Exploitation
     in the Wild'
