@@ -3,12 +3,12 @@
 - id: doi:10.1145/3651890.3672230
   title: 'P4runpro: Enabling Runtime Programmability for RMT Programmable Switches'
   authors:
-  - Yang Yifan
-  - He Lin
-  - Zhou Jiasheng
-  - Shi Xiaoyi
-  - Cao Jiamin
-  - Liu Ying
+  - Yifan Yang
+  - Lin He
+  - Jiasheng Zhou
+  - Xiaoyi Shi
+  - Jiamin Cao
+  - Ying Liu
   publisher: In Proceedings of the 2024 Annual Conference of the ACM Special Interest
     Group on Data Communication (SIGCOMM)
   date: '2024-08-04'
@@ -357,14 +357,14 @@
 - id: conference:INFOCOM25
   title: '6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches'
   authors:
-  - Zhou Jiasheng
-  - He Lin
-  - Yang Yifan
-  - Shi Xiaoyi
-  - Cheng Daguo
-  - E Jinlong
-  - Liu Ying
-  - Zhang Dong
+  - Jiasheng Zhou
+  - Lin He
+  - Yifan Yang
+  - Xiaoyi Shi
+  - Daguo Cheng
+  - Jinlong E
+  - Ying Liu
+  - Dong Zhang
   publisher: In Proceedings of the 44th IEEE Conference on Computer Communications
     (INFOCOM)
   date: '2025-06-19'
@@ -405,18 +405,18 @@
   title: 'Luori: Active Probing and Evaluation of Internet-wide IPv6 Fully Responsive
     Prefixes'
   authors:
-  - Cheng Daguo
-  - He Lin
-  - Wei Chentian
-  - Yin Qilei
-  - Jin Boran
-  - Wang Zhaoan
-  - Pan Xiaoteng
-  - Zhou Sixu
-  - Liu Ying
-  - Zhang Shenglin
-  - Tan Fuchao
-  - Liu Wenmao
+  - Daguo Cheng
+  - Lin He
+  - Chentian Wei
+  - Qilei Yin
+  - Boran Jin
+  - Zhaoan Wang
+  - Xiaoteng Pan
+  - Sixu Zhou
+  - Ying Liu
+  - Shenglin Zhang
+  - Fuchao Tan
+  - Wenmao Liu
   publisher: Proceedings of the 32nd IEEE International Conference on Network Protocols
     (ICNP)
   date: '2024-10-28'
@@ -456,9 +456,9 @@
   title: 'Overlooked Backdoors: Investigating 6to4 Tunnel Nodes and Their Exploitation
     in the Wild'
   authors:
-  - Guo Jiaxing
-  - He Lin
-  - Liu Ying
+  - Jiaxing Guo
+  - Lin He
+  - Ying Liu
   publisher: Proceedings of the 43rd IEEE International Performance Computing and
     Communications Conference (IPCCC)
   date: '2024-11-22'
