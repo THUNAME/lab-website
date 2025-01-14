@@ -1,23 +1,123 @@
-- id: doi:10.1371/journal.pcbi.1007128
+
+- id: zhou20256map
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  title: "6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches"
+  authors:
+  - Zhou Jiasheng
+  - He Lin
+  - Yang Yifan
+  - Shi Xiaoyi
+  - Cheng Daguo
+  - E Jinlong
+  - Liu Ying
+  - Zhang Dong
+  publisher: In Proceedings of the 44th IEEE Conference on Computer Communications (INFOCOM)
+  date: '2025-06-19'
+  link: 
+  orcid: 
+  plugin: orcid.py
+  file: orcid.yaml
+  type: paper
+  description: The vast address space of IPv6 makes it impractical to apply exhaustive scanning to survey the entire network. Existing studies that aim to quickly discover active IPv6 addresses by optimizing the scanning space face issues of poor scalability and high time complexity, which hinder a comprehensive understanding of the IPv6 network and impede the timely provision of security snapshots and the development of IPv6. Fortunately, the emergence of programmable switches provides an opportunity to address the above issues. To this end, we propose 6Map, a fast active IPv6 address discovery system based on programmable switches. We design a lightweight target generation algorithm running on the control plane of the programmable switch and implement fast scanning address generation on the switch ASIC. The experimental results show that IPv6 active address discovery efficiency is up to 40.1× compared to the state-of-the-art method at the 100M probe budget.
+  image: 
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+  - type: manubot
+    link: 
+  - type: source
+    text: Manuscript Source
+    link: 
+  - type: website
+    link: 
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+  - SDN
+  - IPv6
+  - Active Address Discovery
+  - Programmable Switch
+  repo:
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: cheng2024luori
+  title: "Luori: Active Probing and Evaluation of Internet-wide IPv6 Fully Responsive Prefixes"
+  authors:
+  - Cheng Daguo
+  - He Lin
+  - Wei Chentian
+  - Yin Qilei
+  - Jin Boran
+  - Wang Zhaoan
+  - Pan Xiaoteng
+  - Zhou Sixu
+  - Liu Ying
+  - Zhang Shenglin
+  - Tan Fuchao
+  - Liu Wenmao
+  booktitle: "Proceedings of the 32nd IEEE International Conference on Network Protocols (ICNP)"
+  year: "2024"
+  address: Charleroi, Belgium
+  date: "2024-10-28"
+  abstract: "With the large-scale deployment and application of IPv6, IPv6 network measurements will become increasingly important. However, a special type of IPv6 prefix called Fully Responsive Prefix (FRP) is having a significant impact on IPv6 measurement campaigns, which is defined as all addresses under a prefix responding to scans. Obviously, there cannot be a real responder behind each of these addresses. To reveal the current status and impact of Internet-wide IPv6 FRPs, we propose for the first time an active probing method for Internet-wide IPv6 FRPs, Luori, which transforms the active probing process under IPv6 huge prefix space (potential range of prefix presence) into a dynamic search process in a tree based on reinforcement learning, achieving efficient probing of arbitrary routing prefixes. The evaluation results show that Luori found 31.7K largest FRPs in a single Internet-wide probing with 11M budget, covering 1.5×10^30 address space, which is 10^6× that of existing methods. More importantly, after six months of Internet-wide probing, we have found 516K largest FRPs, which covers 1.3 × 10^33 address space and 795 ASes, making it the largest publicly known FRP list. Based on this list, we screen out 20% of the addresses covered by FRPs from a well-known IPv6 active address dataset. Furthermore, we further analyze and find that the distribution of these FRPs is extensive and their implementation methods are diverse, which can provide beneficial references for the practical application of FRPs. We also make this list publicly available and maintain it long-term for use and study by relevant researchers."
+  tags:
+  - IPv6
+  - Network Measurement
+  - Fully Responsive Prefixes
+  - Active Probing
+  - Reinforcement Learning
+
+
+
+
+- id: yang2024p4runpro
+  title: "P4runpro: Enabling Runtime Programmability for RMT Programmable Switches"
+  authors:
+  - Yang Yifan
+  - He Lin
+  - Zhou Jiasheng
+  - Shi Xiaoyi
+  - Cao Jiamin
+  - Liu Ying
+  publisher: In Proceedings of the 2024 Annual Conference of the ACM Special Interest Group on Data Communication (SIGCOMM)
+  date: '2024-08-04'
+  link: 
+  orcid: 
+  plugin: orcid.py
+  file: orcid.yaml
+  type: paper
+  description: Programmable switches have revolutionized network operations by enabling the flexible customization of packet processing logic using language like P4. However, changing the programs running on the switch requires disturbing traffic and suspending other unrelated programs. In this paper, we present P4runpro, enabling runtime data plane updates with dynamic resource allocation. The P4runpro data plane abstracts hardware resources and defines dynamically reconfigurable atomic operations that form packet processing logic. P4runpro provides runtime programming interfaces called P4runpro primitives for the operator to write high-level programs. We have designed the P4runpro compiler to automatically and consistently link the P4runpro programs to the running data plane. We implement our prototype on a Tofino switch. We implement 15 example runtime programs using P4runpro to demonstrate its generality and expressiveness. Our evaluation results show that compared to the state-of-the-art, P4runpro can respond within hundreds of milliseconds, achieve an average of 60% to 80% dynamic resource utilization, concurrently run ≈0.6K to ≈2.8K programs, and introduce lower overhead. Our case studies illustrate the benefit of runtime programming and prove the same functionality between P4runpro and conventional P4 programs.
+  image: 
+  buttons:
+  - type: manubot
+    link: 
+  - type: source
+    text: Manuscript Source
+    link: https://dl.acm.org/doi/pdf/10.1145/3651890.3672230
+  - type: website
+    link: https://dl.acm.org/doi/10.1145/3651890.3672230
+  tags:
+  - SDN
+  - Programmable Switches
+  - P4
+  - Runtime Programmability
+  repo: https://github.com/P4runpro/P4runpro
+
+
+
+
+
+- id: guo2024overlooked
+  title: "Overlooked Backdoors: Investigating 6to4 Tunnel Nodes and Their Exploitation in the Wild"
+  authors:
+  - Guo Jiaxing
+  - He Lin
+  - Liu Ying
+  booktitle: "Proceedings of the 43rd IEEE International Performance Computing and Communications Conference (IPCCC)"
+  year: "2024"
+  address: Orlando, Florida, USA
+  date: "2024-11-22"
+  abstract: "As native IPv6 adoption increases, the use of 6to4 tunnels has declined, yet they remain a significant security concern in today's Internet. This study investigates the real-world deployment of 6to4 tunnels, revealing their current scale, characteristics, and security implications. We identify open 6to4 relays in 216 countries and 13,114 autonomous systems, noting stable short-term counts but a long-term decline. We analyze the security of these nodes and find over 578k nodes vulnerable to address spoofing and packet injection. Additionally, we present several under-emphasized scenarios where open 6to4 nodes are abused, including leveraging services on 6to4 nodes as traffic amplifiers, circumventing restrictions using multiple 6to4 addresses, and connecting 6to4 nodes to render attacks untraceable."
+  tags:
+  - IPv6
+  - 6to4 Tunnels
+  - Security
+  - Address Spoofing
+  - Packet Injection
+
