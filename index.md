@@ -3,7 +3,11 @@
 
 # THUNAME's Recent News
 
+[12/2024] Our group won the First Prize of the 2nd IPv6 Technology Application Innovation Competition Final. 
+
 [12/2024] 6Map accepted to INFOCOM’25.
+
+[11/2024] Our group won the Grand Prize of the 7th Next Generation Internet Technology Innovation Competition. 
 
 [07/2024] Luori accepted to ICNP’24.
 
