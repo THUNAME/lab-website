@@ -15,7 +15,13 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'pi1'" %}
 {% include list.html data="members" component="portrait" filter="role == 'pi2'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi1' and  role != 'pi2' "  %}
+{% include list.html data="members" component="portrait" filter="role == '2022' %}
+{% include list.html data="members" component="portrait" filter="role == '2023' %}
+{% include list.html data="members" component="portrait" filter="role == '2024' %}
+{% include list.html data="members" component="portrait" filter="role == '2025' %}
+{% include list.html data="members" component="portrait" filter="role == '2026' %}
+
+
 
 {% include section.html background="images/background.jpg" dark=true %}
 
