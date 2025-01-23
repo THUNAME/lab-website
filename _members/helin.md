@@ -1,7 +1,7 @@
 ---
 name: Lin He
 image: images/photo.jpg
-role: pi
+role: pi2
 group: alum
 aliases:
   - Lin He
