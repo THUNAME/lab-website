@@ -15,11 +15,12 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'pi1'" %}
 {% include list.html data="members" component="portrait" filter="role == 'pi2'" %}
-{% include list.html data="members" component="portrait" filter="role == '2022' %}
-{% include list.html data="members" component="portrait" filter="role == '2023' %}
-{% include list.html data="members" component="portrait" filter="role == '2024' %}
-{% include list.html data="members" component="portrait" filter="role == '2025' %}
-{% include list.html data="members" component="portrait" filter="role == '2026' %}
+{% include list.html data="members" component="portrait" filter="role == 'PhD2022' or role == 'masters2022' "%}
+{% include list.html data="members" component="portrait" filter="role == 'PhD2023' or role == 'masters2023' "%}
+{% include list.html data="members" component="portrait" filter="role == 'PhD2024' or role =='masters2024' "%}
+{% include list.html data="members" component="portrait" filter="role == 'PhD2025' or role =='masters2025' "%}
+{% include list.html data="members" component="portrait" filter="role == 'PhD2026' or role =='masters2026' "%}
+{% include list.html data="members" component="portrait" filter="role == 'PhD2027' or role =='masters2027' "%}
 
 
 
