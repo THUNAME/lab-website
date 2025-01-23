@@ -1,7 +1,7 @@
 ---
 name: Jiaxing Guo
 image: 
-role: Master's student
+role: 2022
 affiliation: Tsinghua University
 aliases:
   - J. Guo
