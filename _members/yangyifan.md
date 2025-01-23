@@ -1,7 +1,7 @@
 ---
 name: Yifan Yang
 image: images/yangyifan.jpg
-role: Ph.D student
+role: 2023
 affiliation: Tsinghua University
 aliases:
   - Y. Yang
