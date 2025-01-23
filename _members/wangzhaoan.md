@@ -1,7 +1,7 @@
 ---
 name: Zhaoan Wang
 image: 
-role: "2023"
+role: masters2023
 affiliation: Tsinghua University
 aliases:
   - Z. Wang

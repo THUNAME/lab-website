@@ -1,7 +1,7 @@
 ---
 name: Daguo Cheng
 image: 
-role: "2022"
+role: PhD2022
 affiliation: Tsinghua University
 aliases:
   - D. Cheng
