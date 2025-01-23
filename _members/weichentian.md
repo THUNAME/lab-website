@@ -1,7 +1,7 @@
 ---
 name: Chentian Wei
 image:  images/weichentian.jpg
-role: Ph.D student
+role: 2024
 affiliation: Tsinghua University
 aliases:
   - C. Wei
