@@ -17,18 +17,18 @@ I am currently a 1st-year Ph.D student at the Institute of Network Science and C
 
 ### Publications
 ##### Conferences
-[L7LB: High Performance Layer-7 Load Balancing on Heterogeneous Programmable Platforms]()
+* [L7LB: High Performance Layer-7 Load Balancing on Heterogeneous Programmable Platforms](https://ieeexplore.ieee.org/abstract/document/10225882)
 __Xiaoyi Shi__, Yifan Li, Chengjun Jia, Xiaohe Hu and Jun Li
 _INFOCOM2023WKSHPS_
 
-[P4runpro: Enabling Runtime Programmability for RMT Programmable Switches]()
+* [P4runpro: Enabling Runtime Programmability for RMT Programmable Switches](https://dl.acm.org/doi/abs/10.1145/3651890.3672230)
 Yifan Yang, Lin He, Jiasheng Zhou, __Xiaoyi Shi__, Jiamin Cao, and Ying Liu
 _SIGCOMM2024_
 
-[6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches]()
+* [6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches]()
 Jiasheng Zhou, Lin He, Yifan Yang, __Xiaoyi Shi__, Daguo Cheng, Jinlong E, Ying Liu and Dong Zhang
 _INFOCOM2025_
 
-[Miresga: Accelerating Layer-7 Load Balancing with Programmable Switches]()
+* [Miresga: Accelerating Layer-7 Load Balancing with Programmable Switches]()
 __Xiaoyi Shi__, Lin He, Jiasheng Zhou, Yifan Yang and Ying Liu
 _WWW25_
