@@ -1,7 +1,7 @@
 ---
 name: Daguo Cheng
 image: 
-role: Ph.D student
+role: 2022
 affiliation: Tsinghua University
 aliases:
   - D. Cheng
