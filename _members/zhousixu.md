@@ -14,4 +14,4 @@ links:
 ---
 
 ### Hi there 👋
-I am currently a 2st-year MA.Eng student at the **School of Software** at **NanKai University**, advised by Prof.Ying Liu. I received my bachelor degree at the **School of Software, NanKai University**.
+I am currently a 2st-year MA.Eng student at the **School of Software** at **NanKai University**, advised by Prof.Zhang ShengLin. I received my bachelor degree at the **School of Software, NanKai University**.
