@@ -1,7 +1,7 @@
 ---
 name: Zedong Jia
 image: 
-role: 2025
+role: "2025"
 affiliation: Tsinghua University
 aliases:
   - Z. Jia

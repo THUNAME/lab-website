@@ -1,7 +1,7 @@
 ---
 name: Chentian Wei
 image:  images/weichentian.jpg
-role: 2024
+role: "2024"
 affiliation: Tsinghua University
 aliases:
   - C. Wei
@@ -18,6 +18,12 @@ I am currently a 1st-year Ph.D student at the **Institute of Network Science and
 
 
 ### News
+
+[12/2024] Our group won the First Prize of the 2nd IPv6 Technology Application Innovation Competition Final.
+
+[11/2024] Our group won the Grand Prize of the 7th Next Generation Internet Technology Innovation Competition.
+
+[07/2024] Luori accepted to ICNP’24.
 
 
 ### Conference papers

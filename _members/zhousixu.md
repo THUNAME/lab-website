@@ -1,7 +1,7 @@
 ---
 name: Sixu Zhou
 image: 
-role: 2022
+role: "2022"
 affiliation: Nankai University
 aliases:
   - S. Zhou

@@ -1,7 +1,7 @@
 ---
 name: Le Gai
 image: images/gaile.jpg
-role: 2025
+role: "2025"
 affiliation: Tsinghua University
 aliases:
   - L. Gai
