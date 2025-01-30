@@ -29,4 +29,4 @@ My recent work focuses on the following research topics. If you would like to di
 ## Research
 
 - [DawnGNN: Documentation augmented windows malware detection using graph neural network.](https://www.sciencedirect.com/science/article/abs/pii/S0167404824000890)
-  Pengbin Feng, **Le Gai**, Li Yang, Qin Wang, Teng Li, Ning Xi, Jianfeng Ma Computers & Security, 2024
+  Pengbin Feng, **Le Gai**, Li Yang, Qin Wang, Teng Li, Ning Xi, Jianfeng Ma. Computers & Security, 2024: 103788.
