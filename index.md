@@ -2,6 +2,7 @@
 ---
 
 # THUNAME's Recent News
+[01/2025] Miressga accepted to WWW'25
 
 [12/2024] Our group won the First Prize of the 2nd IPv6 Technology Application Innovation Competition Final. 
 
