@@ -12,7 +12,7 @@
   publisher: In Proceedings of the 2024 Annual Conference of the ACM Special Interest
     Group on Data Communication (SIGCOMM)
   date: '2024-08-04'
-  link: null
+  link: https://dl.acm.org/doi/pdf/10.1145/3651890.3672230
   orcid: null
   plugin: sources.py
   file: sources.yaml
@@ -364,7 +364,7 @@
   - Ying Liu
   publisher: In Proceedings of Proceedings of the ACM Web Conference 2025 (WWW)
   date: '2025-04-28'
-  link: null
+  link: https://sirius-sxy.github.io/files/paper4.pdf
   type: paper
   orcid: null
   plugin: sources.py
