@@ -1,47 +1,46 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: TBD
+  subtitle: TBD
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: TBD
+  repo: 
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: TBD
+  subtitle: TBD
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: TBD
+  repo: 
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: TBD
+  subtitle: TBD
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: 
+  description: TBD
+  repo: 
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: TBD
+  subtitle: TBD
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: TBD
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: TBD
+  subtitle: TBD
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: 
+  description: TBD
+  repo: TBD
   tags:
     - software
