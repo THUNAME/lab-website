@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.member-content {
+  display: flex;
+  flex-grow: 1; /* 让 section 占据剩余空间 */
+  left: 200px;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.member-content h3 {
+  margin-top: 0px; /* 控制 h2 与上方内容的间距 */
+  margin-bottom: 0px; /* 控制 h2 与 h3 之间的间距 */
+}
+
+.member-content h5 {
+  margin-top: 10px; /* 控制 h2 与上方内容的间距 */
+  margin-bottom: -30px; /* 控制 h2 与 h3 之间的间距 */
+}
+
+/*# sourceMappingURL=member-content.css.map */
