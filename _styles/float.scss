@@ -4,6 +4,8 @@
 $wrap: 600px;
 
 .float {
+  position: sticky;
+  top: 100px;
   margin-bottom: 20px;
   max-width: 50%;
 }
