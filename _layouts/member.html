@@ -18,7 +18,10 @@ layout: default
 
 {% include float.html content=floatcontent %}
 
-{{ content }}
+<div class="member-content">
+  {{ content }}
+</div>
+
 
 {% assign aliases = page.aliases
   | default: page.name
