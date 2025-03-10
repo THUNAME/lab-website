@@ -1,6 +1,6 @@
 ---
 name: Xiaoyi Shi
-image: images/shixiaoyi.jpeg
+image: images/shixiaoyi.jpg
 role: PhD2024
 affiliation: Tsinghua University
 aliases:
