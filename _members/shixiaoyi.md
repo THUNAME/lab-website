@@ -32,7 +32,7 @@ Jiasheng Zhou, Lin He, Yifan Yang, __Xiaoyi Shi__, Daguo Cheng, Jinlong E, Ying 
 _INFOCOM2025_ \
 _Not Published Yet_
 
-* [Miresga: Accelerating Layer-7 Load Balancing with Programmable Switches](https://sirius-sxy.github.io/files/paper4.pdf) \
+* [Miresga: Accelerating Layer-7 Load Balancing with Programmable Switches](https://dl.acm.org/doi/10.1145/3696410.3714809) \
 __Xiaoyi Shi__, Lin He, Jiasheng Zhou, Yifan Yang and Ying Liu \
 _WWW25_ \
 Reviews and the reviewing verision are available in [Openreview](https://openreview.net/forum?id=iQEcCo2Mn8). Codes are available in [THUNAME/Miresga](https://github.com/THUNAME/Miresga)
