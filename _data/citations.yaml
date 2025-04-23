@@ -49,6 +49,23 @@
   - P4
   - Runtime Programmability
   repo: https://github.com/P4runpro/P4runpro
+- id: doi:10.1145/3696410.3714669
+  title: 'IPdb: A High-Precision IP Level Industry Categorization of Web Services'
+  authors:
+  - Hongxu Chen
+  - Guanglei Song
+  - Zhiliang Wang
+  - Jiahai Yang
+  - Songyun Wu
+  - Jinlei Lin
+  - Lin He
+  - Chenglong Li
+  publisher: Proceedings of the ACM on Web Conference 2025
+  date: '2025-04-22'
+  link: https://doi.org/g9gcd4
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/TNET.2024.3491314
   title: '<i>PMap</i>: Reinforcement Learning-Based Internet-Wide Port Scanning'
   authors:
@@ -338,7 +355,7 @@
   orcid: 0000-0002-7348-5833
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1145/3696410.3714809
+- id: conference:WWW25
   title: 'Miresga: Accelerating Layer-7 Load Balancing with Programmable Switches'
   authors:
   - Xiaoyi Shi
@@ -348,7 +365,7 @@
   - Ying Liu
   publisher: In Proceedings of Proceedings of the ACM Web Conference 2025 (WWW)
   date: '2025-04-28'
-  link: https://dl.acm.org/doi/10.1145/3696410.3714809
+  link: https://sirius-sxy.github.io/files/paper4.pdf
   type: paper
   orcid: null
   plugin: sources.py
@@ -439,7 +456,7 @@
   - Active Address Discovery
   - Programmable Switch
   repo: null
-- id: doi:10.1109/ICNP61940.2024.10858548
+- id: conference:ICNP24
   title: 'Luori: Active Probing and Evaluation of Internet-wide IPv6 Fully Responsive
     Prefixes'
   authors:
@@ -458,7 +475,7 @@
   publisher: Proceedings of the 32nd IEEE International Conference on Network Protocols
     (ICNP)
   date: '2024-10-28'
-  link: https://ieeexplore.ieee.org/document/10858548
+  link: https://w3id.org/scholarlydata/ontology/conference-ontology.owl#ICNP24
   year: '2024'
   address: Charleroi, Belgium
   description: "With the large-scale deployment and application of IPv6, IPv6 network\
@@ -490,7 +507,7 @@
   - Reinforcement Learning
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/IPCCC59868.2024.10850165
+- id: conference:IPCCC24
   title: 'Overlooked Backdoors: Investigating 6to4 Tunnel Nodes and Their Exploitation
     in the Wild'
   authors:
@@ -500,7 +517,7 @@
   publisher: Proceedings of the 43rd IEEE International Performance Computing and
     Communications Conference (IPCCC)
   date: '2024-11-22'
-  link: https://ieeexplore.ieee.org/document/10850165
+  link: https://w3id.org/scholarlydata/ontology/conference-ontology.owl#IPCCC24
   year: '2024'
   address: Orlando, Florida, USA
   description: As native IPv6 adoption increases, the use of 6to4 tunnels has declined,
