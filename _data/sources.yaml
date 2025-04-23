@@ -1,4 +1,4 @@
-- id: conference:WWW25
+- id: doi:10.1145/3696410.3714809
   type: paper
   title: "Miresga: Accelerating Layer-7 Load Balancing with Programmable Switches"
   authors:
@@ -9,7 +9,7 @@
   - Ying Liu
   publisher: In Proceedings of Proceedings of the ACM Web Conference 2025 (WWW)
   date: '2025-04-28'
-  link: https://sirius-sxy.github.io/files/paper4.pdf
+  link: https://dl.acm.org/doi/pdf/10.1145/3696410.3714809
   orcid:
   plugin: orcid.py
   file: orcid.yaml
@@ -23,9 +23,9 @@
     link: 
   - type: source
     text: Manuscript Source
-    link: 
+    link: https://dl.acm.org/doi/pdf/10.1145/3696410.3714809
   - type: website
-    link: 
+    link: https://dl.acm.org/doi/10.1145/3696410.3714809
   tags:
   - SDN
   - Layer-7 Load Balancing
@@ -68,7 +68,7 @@
   repo: 
 
 
-- id: conference:ICNP24
+- id: doi:10.1109/ICNP61940.2024.10858548
   title: "Luori: Active Probing and Evaluation of Internet-wide IPv6 Fully Responsive Prefixes"
   authors:
   - Daguo Cheng
@@ -83,6 +83,7 @@
   - Shenglin Zhang
   - Fuchao Tan
   - Wenmao Liu
+  link: https://ieeexplore.ieee.org/document/10858548
   publisher: "Proceedings of the 32nd IEEE International Conference on Network Protocols (ICNP)"
   year: "2024"
   address: Charleroi, Belgium
@@ -135,12 +136,13 @@
 
 
 
-- id: conference:IPCCC24
+- id: doi:10.1109/IPCCC59868.2024.10850165
   title: "Overlooked Backdoors: Investigating 6to4 Tunnel Nodes and Their Exploitation in the Wild"
   authors:
   - Jiaxing Guo
   - Lin He
   - Ying Liu
+  link: https://ieeexplore.ieee.org/document/10850165
   publisher: "Proceedings of the 43rd IEEE International Performance Computing and Communications Conference (IPCCC)"
   year: "2024"
   address: Orlando, Florida, USA
