@@ -1,5 +1,59 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3696410.3714809
+  title: 'Miresga: Accelerating Layer-7 Load Balancing with Programmable Switches'
+  authors:
+  - Xiaoyi Shi
+  - Lin He
+  - Jiasheng Zhou
+  - Yifan Yang
+  - Ying Liu
+  publisher: In Proceedings of Proceedings of the ACM Web Conference 2025 (WWW)
+  date: '2025-04-28'
+  link: https://dl.acm.org/doi/pdf/10.1145/3696410.3714809
+  orcid: null
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: "As online cloud services expand rapidly, layer-7 load balancing has\
+    \ become indispensable for maintaining service availability and performance. The\
+    \ emergence of programmable switches with both high performance and a certain\
+    \ degree of flexibility has made it possible to apply programmable switches to\
+    \ load balancing. Nevertheless, the limited memory capacity and the relatively\
+    \ sluggish speed of table entry insertion and deletion of programmable switches\
+    \ have severely constrained their performance.\nTo this end, we introduce Miresga,\
+    \ a hybrid and high-performance layer-7 load balancing system by co-designing\
+    \ hardware and software. The core idea of Miresga is to maximize the utilization\
+    \ of hardware and software resources by rationally partitioning the layer-7 load\
+    \ balancing task, thereby improving performance. To achieve this, Miresga offloads\
+    \ the elephant flows, which account for the majority of traffic, to programmable\
+    \ switches that excel at packet processing, and Miresga utilizes general-purpose\
+    \ servers with stronger computational capabilities to parse application layer\
+    \ protocols and apply load balancing rules. To alleviate memory pressure on the\
+    \ programmable switch, Miresga employs a back-end agent to handle memory-intensive\
+    \ tasks, working in conjunction with the programmable switch to complete the offloaded\
+    \ tasks. This design leverages the performance advantages of the programmable\
+    \ switch while avoiding bottlenecks caused by its limited memory and table insertion\
+    \ speed. We implement the Miresga prototype with a 3.2 Tbps Intel Tofino switch\
+    \ and general-purpose servers. The evaluation results show that Miresga achieves\
+    \ 3.9\xD7 throughput and 0.4\xD7 latency compared to software load balancing solutions.\
+    \ Compared to the state-of-the-art design employing programmable switches, Miresga\
+    \ achieves almost the same throughput and latency for delivering large objects\
+    \ and 5.0\xD7 throughput and 0.2\xD7 latency when transmitting small objects.\n"
+  image: null
+  buttons:
+  - type: manubot
+    link: null
+  - type: source
+    text: Manuscript Source
+    link: https://dl.acm.org/doi/pdf/10.1145/3696410.3714809
+  - type: website
+    link: https://dl.acm.org/doi/10.1145/3696410.3714809
+  tags:
+  - SDN
+  - Layer-7 Load Balancing
+  - Programmable Switch
+  repo: https://github.com/THUNAME/Miresga
 - id: doi:10.1145/3651890.3672230
   title: 'P4runpro: Enabling Runtime Programmability for RMT Programmable Switches'
   authors:
@@ -355,60 +409,6 @@
   orcid: 0000-0002-7348-5833
   plugin: orcid.py
   file: orcid.yaml
-- id: conference:WWW25
-  title: 'Miresga: Accelerating Layer-7 Load Balancing with Programmable Switches'
-  authors:
-  - Xiaoyi Shi
-  - Lin He
-  - Jiasheng Zhou
-  - Yifan Yang
-  - Ying Liu
-  publisher: In Proceedings of Proceedings of the ACM Web Conference 2025 (WWW)
-  date: '2025-04-28'
-  link: https://sirius-sxy.github.io/files/paper4.pdf
-  type: paper
-  orcid: null
-  plugin: sources.py
-  file: sources.yaml
-  description: "As online cloud services expand rapidly, layer-7 load balancing has\
-    \ become indispensable for maintaining service availability and performance. The\
-    \ emergence of programmable switches with both high performance and a certain\
-    \ degree of flexibility has made it possible to apply programmable switches to\
-    \ load balancing. Nevertheless, the limited memory capacity and the relatively\
-    \ sluggish speed of table entry insertion and deletion of programmable switches\
-    \ have severely constrained their performance.\nTo this end, we introduce Miresga,\
-    \ a hybrid and high-performance layer-7 load balancing system by co-designing\
-    \ hardware and software. The core idea of Miresga is to maximize the utilization\
-    \ of hardware and software resources by rationally partitioning the layer-7 load\
-    \ balancing task, thereby improving performance. To achieve this, Miresga offloads\
-    \ the elephant flows, which account for the majority of traffic, to programmable\
-    \ switches that excel at packet processing, and Miresga utilizes general-purpose\
-    \ servers with stronger computational capabilities to parse application layer\
-    \ protocols and apply load balancing rules. To alleviate memory pressure on the\
-    \ programmable switch, Miresga employs a back-end agent to handle memory-intensive\
-    \ tasks, working in conjunction with the programmable switch to complete the offloaded\
-    \ tasks. This design leverages the performance advantages of the programmable\
-    \ switch while avoiding bottlenecks caused by its limited memory and table insertion\
-    \ speed. We implement the Miresga prototype with a 3.2 Tbps Intel Tofino switch\
-    \ and general-purpose servers. The evaluation results show that Miresga achieves\
-    \ 3.9\xD7 throughput and 0.4\xD7 latency compared to software load balancing solutions.\
-    \ Compared to the state-of-the-art design employing programmable switches, Miresga\
-    \ achieves almost the same throughput and latency for delivering large objects\
-    \ and 5.0\xD7 throughput and 0.2\xD7 latency when transmitting small objects.\n"
-  image: null
-  buttons:
-  - type: manubot
-    link: null
-  - type: source
-    text: Manuscript Source
-    link: null
-  - type: website
-    link: null
-  tags:
-  - SDN
-  - Layer-7 Load Balancing
-  - Programmable Switch
-  repo: https://github.com/THUNAME/Miresga
 - id: conference:INFOCOM25
   title: '6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches'
   authors:
@@ -456,7 +456,7 @@
   - Active Address Discovery
   - Programmable Switch
   repo: null
-- id: conference:ICNP24
+- id: doi:10.1109/ICNP61940.2024.10858548
   title: 'Luori: Active Probing and Evaluation of Internet-wide IPv6 Fully Responsive
     Prefixes'
   authors:
@@ -475,7 +475,7 @@
   publisher: Proceedings of the 32nd IEEE International Conference on Network Protocols
     (ICNP)
   date: '2024-10-28'
-  link: https://w3id.org/scholarlydata/ontology/conference-ontology.owl#ICNP24
+  link: https://ieeexplore.ieee.org/document/10858548
   year: '2024'
   address: Charleroi, Belgium
   description: "With the large-scale deployment and application of IPv6, IPv6 network\
@@ -507,7 +507,7 @@
   - Reinforcement Learning
   plugin: sources.py
   file: sources.yaml
-- id: conference:IPCCC24
+- id: doi:10.1109/IPCCC59868.2024.10850165
   title: 'Overlooked Backdoors: Investigating 6to4 Tunnel Nodes and Their Exploitation
     in the Wild'
   authors:
@@ -517,7 +517,7 @@
   publisher: Proceedings of the 43rd IEEE International Performance Computing and
     Communications Conference (IPCCC)
   date: '2024-11-22'
-  link: https://w3id.org/scholarlydata/ontology/conference-ontology.owl#IPCCC24
+  link: https://ieeexplore.ieee.org/document/10850165
   year: '2024'
   address: Orlando, Florida, USA
   description: As native IPv6 adoption increases, the use of 6to4 tunnels has declined,
