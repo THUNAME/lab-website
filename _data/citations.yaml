@@ -103,6 +103,22 @@
   - P4
   - Runtime Programmability
   repo: https://github.com/P4runpro/P4runpro
+- id: doi:10.1109/infocomwkshps57453.2023.10225882
+  title: 'L7LB: High Performance Layer-7 Load Balancing on Heterogeneous Programmable
+    Platforms'
+  authors:
+  - Xiaoyi Shi
+  - Yifan Li
+  - Chengjun Jia
+  - Xiaohe Hu
+  - Jun Li
+  publisher: IEEE INFOCOM 2023 - IEEE Conference on Computer Communications Workshops
+    (INFOCOM WKSHPS)
+  date: '2023-05-20'
+  link: https://doi.org/gszh6k
+  orcid: 0009-0007-1799-0820
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3696410.3714669
   title: 'IPdb: A High-Precision IP Level Industry Categorization of Web Services'
   authors:
