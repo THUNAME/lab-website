@@ -1,4 +1,4 @@
-- id: conference:IWQOS33th
+- id: conference:IWQOS33rd
   type: paper
   title: "Bringing New Life to Old Tools: Measuring Source Address Validation Deployment with 6in4 Tunnels"
   authors:
@@ -130,7 +130,7 @@
   - Programmable Switch
   repo: "https://github.com/THUNAME/Miresga"
 
-- id: conference:INFOCOM25
+- id: doi:10.1109/INFOCOM55648.2025.11044705
   type: paper
   title: "6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches"
   authors:
@@ -144,7 +144,7 @@
   - Dong Zhang
   publisher: In Proceedings of the 44th IEEE Conference on Computer Communications (INFOCOM)
   date: '2025-05-19'
-  link: 
+  link: https://ieeexplore.ieee.org/abstract/document/11044705
   orcid: 
   plugin: orcid.py
   file: orcid.yaml
@@ -155,9 +155,9 @@
     link: 
   - type: source
     text: Manuscript Source
-    link: 
+    link: https://ieeexplore.ieee.org/abstract/document/11044705
   - type: website
-    link: 
+    link: https://ieeexplore.ieee.org/abstract/document/11044705
   tags:
   - SDN
   - IPv6
