@@ -425,7 +425,7 @@
   orcid: 0000-0002-7348-5833
   plugin: orcid.py
   file: orcid.yaml
-- id: conference:IWQOS33th
+- id: conference:IWQOS33rd
   title: 'Bringing New Life to Old Tools: Measuring Source Address Validation Deployment
     with 6in4 Tunnels'
   authors:
@@ -488,7 +488,7 @@
   - FRP
   - Aliased Prefixes
   repo: null
-- id: conference:ATC25
+- id: url:https://www.usenix.org/conference/atc25/presentation/yang-yifan
   title: 'TGW: Operating an Efficient and Resilient Cloud Gateway at Scale'
   authors:
   - Yifan Yang
@@ -504,7 +504,7 @@
   - Hengyang Xu
   publisher: In Proceedings of the 2025 USENIX Annual Technical Conference (ATC)
   date: '2025-07-07'
-  link: null
+  link: https://www.usenix.org/conference/atc25/presentation/yang-yifan
   type: paper
   orcid: null
   plugin: sources.py
@@ -535,16 +535,16 @@
   image: null
   buttons:
   - type: manubot
-    link: null
+    link: https://www.usenix.org/conference/atc25/presentation/yang-yifan
   - type: source
     text: Manuscript Source
-    link: null
+    link: https://www.usenix.org/conference/atc25/presentation/yang-yifan
   - type: website
-    link: null
+    link: https://www.usenix.org/conference/atc25/presentation/yang-yifan
   tags:
   - Cloud Gateway
   repo: null
-- id: conference:INFOCOM25
+- id: url:https://ieeexplore.ieee.org/abstract/document/11044705
   title: '6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches'
   authors:
   - Jiasheng Zhou
@@ -558,7 +558,7 @@
   publisher: In Proceedings of the 44th IEEE Conference on Computer Communications
     (INFOCOM)
   date: '2025-05-19'
-  link: null
+  link: https://ieeexplore.ieee.org/abstract/document/11044705
   type: paper
   orcid: null
   plugin: sources.py
@@ -582,9 +582,9 @@
     link: null
   - type: source
     text: Manuscript Source
-    link: null
+    link: https://ieeexplore.ieee.org/abstract/document/11044705
   - type: website
-    link: null
+    link: https://ieeexplore.ieee.org/abstract/document/11044705
   tags:
   - SDN
   - IPv6
