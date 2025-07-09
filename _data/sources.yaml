@@ -61,7 +61,7 @@
   repo: 
 
 
-- id: conference:ATC25
+- id: url:https://www.usenix.org/conference/atc25/presentation/yang-yifan
   type: paper
   title: "TGW: Operating an Efficient and Resilient Cloud Gateway at Scale"
   authors:
@@ -78,7 +78,7 @@
   - Hengyang Xu
   publisher: In Proceedings of the 2025 USENIX Annual Technical Conference (ATC)
   date: '2025-07-07'
-  link:
+  link: https://www.usenix.org/conference/atc25/presentation/yang-yifan
   orcid:
   plugin: orcid.py
   file: orcid.yaml
@@ -86,12 +86,12 @@
   image: 
   buttons:
   - type: manubot
-    link: 
+    link: https://www.usenix.org/conference/atc25/presentation/yang-yifan
   - type: source
     text: Manuscript Source
-    link: 
+    link: https://www.usenix.org/conference/atc25/presentation/yang-yifan
   - type: website
-    link: 
+    link: https://www.usenix.org/conference/atc25/presentation/yang-yifan
   tags:
   - Cloud Gateway
   repo: 
@@ -130,7 +130,7 @@
   - Programmable Switch
   repo: "https://github.com/THUNAME/Miresga"
 
-- id: doi:10.1109/INFOCOM55648.2025.11044705
+- id: url:https://ieeexplore.ieee.org/abstract/document/11044705
   type: paper
   title: "6Map: Enabling Fast Active IPv6 Address Discovery with Programmable Switches"
   authors:
