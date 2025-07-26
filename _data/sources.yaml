@@ -1,3 +1,100 @@
+- id: conference:ICNP25_1st
+  type: paper
+  title: "Lightning in the Dark: Uncovering Global IPv6 Router Interfaces and Their Security Implications"
+  authors:
+  - Jiasheng Zhou
+  - Ying Liu
+  - Lin He
+  - Xiaoyi Shi
+  - Yifan Yang
+  - Chentian Wei
+  - Daguo Cheng
+  - Wenwen Gong
+  - Jiahai Yang
+  publisher: The 33rd IEEE International Conference on Network Protocols (ICNP 2025)
+  date: '2025-09-22'
+  link:
+  orcid:
+  plugin: orcid.py
+  file: orcid.yaml
+  description: TBA
+  image: 
+  buttons:
+  - type: manubot
+    link: 
+  - type: source
+    text: Manuscript Source
+    link: 
+  - type: website
+    link: 
+  tags:
+  - IPv6
+  - Network Measurement
+  repo: 
+- id: conference:ICNP25_2nd
+  type: paper
+  title: "SubRecon: Efficient Internet-wide IPv6 Subnet Discovery and Its Applications"
+  authors:
+  - Jiasheng Zhou
+  - Ying Liu
+  - Lin He
+  - Yifan Yang
+  - Xiaoyi Shi
+  - Daguo Cheng
+  - Chentian Wei
+  - Yun Fan
+  - Guanglei Song
+  publisher: The 33rd IEEE International Conference on Network Protocols (ICNP 2025)
+  date: '2025-09-22'
+  link:
+  orcid:
+  plugin: orcid.py
+  file: orcid.yaml
+  description: TBA
+  image:
+  buttons:
+  - type: manubot
+    link:
+  - type: source
+    text: Manuscript Source
+    link:
+  - type: website
+    link:
+  tags:
+  - IPv6
+  - Network Measurement
+  repo:
+- id: conference:ICNP25_3rd
+  type: paper
+  title: "Gungnir: Autoregressive Model for Unified Generation of IPv6 Fully Responsive Prefixes"
+  authors:
+  - Chentian Wei
+  - Ying Liu
+  - Lin He
+  - Daguo Cheng
+  - Jiasheng Zhou
+  publisher: The 33rd IEEE International Conference on Network Protocols (ICNP 2025)
+  date: '2025-09-22'
+  link:
+  orcid:
+  plugin: orcid.py
+  file: orcid.yaml
+  description: TBA
+  image:
+  buttons:
+  - type: manubot
+    link:
+  - type: source
+    text: Manuscript Source
+    link:
+  - type: website
+    link:
+  tags:
+  - FRP
+  - IPv6
+  - Network Measurement
+  repo:
+  
 - id: conference:IWQOS33rd
   type: paper
   title: "Bringing New Life to Old Tools: Measuring Source Address Validation Deployment with 6in4 Tunnels"

@@ -2,6 +2,8 @@
 ---
 
 # THUNAME's Recent News
+[07/2025] Helixir, SubRecon, and Gungnir accepted to ICNP'25
+
 [04/2025] TGW accepted to ATC'25.
 
 [04/2025] APCC and SAV measurement paper accepted to IWQoS’25.
