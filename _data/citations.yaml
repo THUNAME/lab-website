@@ -119,6 +119,49 @@
   orcid: 0009-0007-1799-0820
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1145/3718958.3750499
+  title: 'SyCCL: Exploiting Symmetry for Efficient Collective Communication Scheduling'
+  authors:
+  - Jiamin Cao
+  - Shangfeng Shi
+  - Jiaqi Gao
+  - Weisen Liu
+  - Yifan Yang
+  - Yichi Xu
+  - Zhilong Zheng
+  - Yu Guan
+  - Kun Qian
+  - Ying Liu
+  - Mingwei Xu
+  - Tianshu Wang
+  - Ning Wang
+  - Jianbo Dong
+  - Binzhang Fu
+  - Dennis Cai
+  - Ennan Zhai
+  publisher: Proceedings of the ACM SIGCOMM 2025 Conference
+  date: '2025-08-27'
+  link: https://doi.org/g9z3s8
+  orcid: 0009-0002-6868-1220
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3718958.3754346
+  title: Wisely Optimizing Short Video Streaming for a User-Vendor Win-Win Outcome
+  authors:
+  - Jinlong E
+  - Wei Xu
+  - Jianfei Bi
+  - Lin He
+  - Haoyang Li
+  - Anqi Gu
+  - Dan Yang
+  - Yunpeng Chai
+  publisher: Proceedings of the ACM SIGCOMM 2025 Conference
+  date: '2025-08-27'
+  link: https://doi.org/g9z3s9
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3696410.3714669
   title: 'IPdb: A High-Precision IP Level Industry Categorization of Web Services'
   authors:
