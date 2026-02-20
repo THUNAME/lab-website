@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.comnet.2025.111921
+  title: 'SwitchTAD: Defending deep learning-based website fingerprinting attacks
+    with programmable switches'
+  authors:
+  - Jiasheng Zhou
+  - Lin He
+  - Xiaoyi Shi
+  - Yifan Yang
+  - Jinlong E
+  - Ying Liu
+  publisher: Computer Networks
+  date: '2026-02-01'
+  link: https://doi.org/hbdtzr
+  orcid: 0009-0009-5310-3920
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3696410.3714809
   title: 'Miresga: Accelerating Layer-7 Load Balancing with Programmable Switches'
   authors:
@@ -143,6 +159,50 @@
   date: '2025-08-27'
   link: https://doi.org/g9z3s8
   orcid: 0009-0002-6868-1220
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TON.2025.3645923
+  title: 'AddrProbe: An Internet-Wide Active IPv6 Address Probing System With Limited
+    Seeds'
+  authors:
+  - Daguo Cheng
+  - Lin He
+  - Qilei Yin
+  - Guangxing Han
+  - Yizhen Zhang
+  - Boran Jin
+  - Ying Liu
+  - Guanglei Song
+  - Jinlong E
+  - Tiankai Yang
+  - Jiahai Yang
+  publisher: IEEE Transactions on Networking
+  date: '2026-01-01'
+  link: https://doi.org/hbggs2
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3730567.3768591
+  title: 'Poster: TopoHunter: Enabling Efficient and High-Coverage Active IPv6 Topology
+    Discovery'
+  authors:
+  - Wenwen Gong
+  - Lin He
+  - Hongwei Li
+  - Guanglei Song
+  - Wentong Wang
+  - Daguo Cheng
+  - Enhuan Dong
+  - Chenglong Li
+  - Hui Zhang
+  - Zhiliang Wang
+  - Jinlong E
+  - Ying Liu
+  - Jiahai Yang
+  publisher: Proceedings of the 2025 ACM Internet Measurement Conference
+  date: '2025-10-28'
+  link: https://doi.org/hbb8mb
+  orcid: 0000-0002-7348-5833
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3718958.3754346
