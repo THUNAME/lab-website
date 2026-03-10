@@ -2,6 +2,19 @@
 ---
 
 # THUNAME's Recent News
+
+[12/2025] Our group won the First Prize in the 3rd IPv6 Technology Application Innovation Competition Final.
+
+[12/2025] AddrProbe accepted to IEEE/ACM Transactions on Networking.
+
+[12/2025] SPADE and 6Genos accepted to INFOCOM’26.
+
+[12/2025] Our group won one First Prize and one Second Prize in the 8th Next Generation Internet Technology Innovation Competition.
+
+[12/2025] SwitchTAD accepted to Elsevier Computer Networks.
+
+[09/2025] Our group won the Second Prize in the 1st CCF AI-Computing Network Challenge. 
+
 [07/2025] Helixir, SubRecon, and Gungnir accepted to ICNP'25
 
 [04/2025] TGW accepted to ATC'25.
