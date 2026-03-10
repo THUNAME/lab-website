@@ -29,7 +29,7 @@
 
 {% capture text %}
 
-清华大学网络体系结构与测量研究组(THUNAME)目前由刘莹研究员、何林助理研究员负责，组内共有博士生6名、硕士生4名。我们致力于研究网络体系结构与测量技术，并以此为基础，开展网络空间测绘、互联网体系结构、网络管理、计算机系统等方面的研究。
+清华大学网络体系结构与测量研究组(THUNAME)目前由刘莹研究员、何林副研究员负责，组内共有博士生6名、硕士生4名。我们致力于研究网络体系结构与测量技术，并以此为基础，开展网络空间测绘、互联网体系结构、网络管理、计算机系统等方面的研究。
 
 
 
@@ -86,12 +86,13 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/members.jpg"
+  link="projects"
+  title="Our Projects"
+  flip=true
+  style="bare"
   text=text
 %}
-
 
 
 
@@ -115,14 +116,12 @@
 
 {% endcapture %}
 
+
 {%
   include feature.html
-  image="images/members.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
+  image="images/photo.jpg"
+  link="research"
+  title="Our Research"
   text=text
 %}
-
 
