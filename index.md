@@ -49,32 +49,7 @@
   text=text
 %}
 
-{% capture text %}
 
-这里是目前我们正在进行的研究项目
-
-
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 
@@ -100,3 +75,36 @@
   title="Our Team"
   text=text
 %}
+
+
+
+
+
+{% capture text %}
+
+这里是目前我们正在进行的研究项目
+
+
+
+{%
+  include button.html
+  link="projects"
+  text="Browse our projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/members.jpg"
+  link="projects"
+  title="Our Projects"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+
