@@ -24,30 +24,6 @@
 
 ## Highlights
 
-{% capture text %}
-
-目前团队主要研究方向包括：网络空间测绘、互联网体系结构、可编程网络、高性能计算等。研究成果发表在SIGCOMM、USENIX ATC、ToN、TMC、INFOCOM、TPDS、NDSS、Computer Networks、ICNP等国际顶级期刊/会议。
-
-
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
 
 
 
@@ -75,6 +51,48 @@
   title="Our Team"
   text=text
 %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% capture text %}
+
+目前团队主要研究方向包括：网络空间测绘、互联网体系结构、可编程网络、高性能计算等。研究成果发表在SIGCOMM、USENIX ATC、ToN、TMC、INFOCOM、TPDS、NDSS、Computer Networks、ICNP等国际顶级期刊/会议。
+
+
+
+{%
+  include button.html
+  link="research"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Our Research"
+  text=text
+%}
+
+
 
 
 
