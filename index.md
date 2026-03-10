@@ -57,14 +57,17 @@
 
 {% endcapture %}
 
+
+
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/members.jpg"
+  link="projects"
+  title="Our Projects"
+  flip=true
+  style="bare"
   text=text
 %}
-
 
 
 
@@ -99,14 +102,11 @@
 
 {%
   include feature.html
-  image="images/members.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"
   text=text
 %}
-
 
 
 
