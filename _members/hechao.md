@@ -1,11 +1,11 @@
 ---
-name: He Chao
+name: Chao He
 image: images/hechao.jpg
 role: PhD2026
 affiliation: Tsinghua University
 aliases:
-  - H. Chao
-  - He Chao
+  - C. He
+  - Chao He
 links:
   email: i5user@hust.edu.cn
   orcid: https://orcid.org/0009-0000-8049-4693
