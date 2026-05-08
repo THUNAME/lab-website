@@ -43,14 +43,14 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: "poetry"
+          cache: "pip"
           cache-dependency-path: "_cite/poetry.lock"
 
       - name: Install Python packages
         if: github.event.action != 'closed'
         run: |
           python -m pip install --upgrade poetry==2.4.0
-          poetry -C _cite install --no-root --only main
+          python -m poetry -C _cite install --no-root --only main
 
       - name: SSH debug
         if: runner.debug == '1'
@@ -59,7 +59,7 @@ jobs:
       - name: Build updated citations
         if: github.event.action != 'closed'
         run: |
-          POETRY_VENV="$(poetry -C _cite env info --path)"
+          POETRY_VENV="$(python -m poetry -C _cite env info --path)"
           "$POETRY_VENV/bin/python" _cite/cite.py
         timeout-minutes: 15
 
