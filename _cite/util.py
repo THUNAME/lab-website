@@ -9,11 +9,15 @@ from yaml.loader import SafeLoader
 from pathlib import Path
 from datetime import date, datetime
 from rich import print
-from diskcache import Cache
+from diskcache import Cache, JSONDisk
 
 
-# cache for time-consuming network requests
-cache = Cache("./_cite/.cache")
+# cache for time-consuming network requests.
+# use JSONDisk to avoid pickle deserialization (CVE in diskcache <=5.6.3):
+# the cache directory may end up containing attacker-controlled bytes via
+# fork PRs that get checked out in pull_request_target context, and pickle
+# would otherwise allow arbitrary code execution at deserialization time.
+cache = Cache("./_cite/.cache", disk=JSONDisk, disk_compress_level=0)
 
 
 # clear expired items from cache

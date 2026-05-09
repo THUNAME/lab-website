@@ -14,9 +14,17 @@ permissions:
   pull-requests: write
 
 jobs:
+  # Guard against the "pwn request" pattern: pull_request_target runs in a
+  # privileged context (write token + secrets) but the reusable workflows below
+  # check out the PR head and execute it (Jekyll _plugins/*.rb, _cite/cite.py).
+  # A fork PR could otherwise plant code that exfiltrates secrets or pushes to
+  # the repo. Only run for same-repo PRs, where the author already has write
+  # access and this isn't a privilege escalation.
   update-citations:
+    if: github.event.pull_request.head.repo.full_name == github.repository
     uses: ./.github/workflows/update-citations.yaml
 
   build-preview:
+    if: github.event.pull_request.head.repo.full_name == github.repository
     needs: update-citations
     uses: ./.github/workflows/build-preview.yaml

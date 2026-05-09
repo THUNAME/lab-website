@@ -60,6 +60,10 @@ jobs:
         if: github.event.action != 'closed'
         run: |
           POETRY_VENV="$(python -m poetry -C _cite env info --path)"
+          # cite.py shells out to `manubot` via subprocess, which resolves from
+          # PATH. Without this export the venv's bin/ isn't searched and the
+          # manubot CLI isn't found even though it's installed in the venv.
+          export PATH="$POETRY_VENV/bin:$PATH"
           "$POETRY_VENV/bin/python" _cite/cite.py
         timeout-minutes: 15
 
